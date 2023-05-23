@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <Container>
       <Logo src={githublogo} alt='Dev'/>
-      <Title>API-Github</Title>
+      <Title>API Github</Title>
       <Form>
         <Input
         placeholder='usuario'
